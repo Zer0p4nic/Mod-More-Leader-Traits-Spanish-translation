@@ -1,0 +1,846 @@
+﻿l_spanish:
+ 
+ ####################
+ # Commander Traits #
+ ####################
+ 
+ ### Strategist Traits ###
+ 
+ # Weaver of Shadows
+ 
+ leader_trait_MLT_weaver_of_shadows: "Tejedor de Sombras"
+ leader_trait_MLT_weaver_of_shadows_desc: "Este líder cree que la inteligencia gana guerras, no permitiendo filtraciones al público o al enemigo con respecto a las capacidades militares."
+ leader_trait_MLT_weaver_of_shadows_2: "$leader_trait_MLT_weaver_of_shadows$"
+ leader_trait_MLT_weaver_of_shadows_2_desc: "$leader_trait_MLT_weaver_of_shadows_desc$"
+ leader_trait_MLT_weaver_of_shadows_3: "$leader_trait_MLT_weaver_of_shadows$"
+ leader_trait_MLT_weaver_of_shadows_3_desc: "$leader_trait_MLT_weaver_of_shadows_desc$"
+ 
+ leader_trait_MLT_weaver_of_shadows_hive: "Tejedor de Sombras"
+ leader_trait_MLT_weaver_of_shadows_hive_desc: "Este líder cree que la inteligencia gana guerras."
+ leader_trait_MLT_weaver_of_shadows_2_hive: "$leader_trait_MLT_weaver_of_shadows_hive$"
+ leader_trait_MLT_weaver_of_shadows_2_hive_desc: "$leader_trait_MLT_weaver_of_shadows_hive_desc$"
+ leader_trait_MLT_weaver_of_shadows_3_hive: "$leader_trait_MLT_weaver_of_shadows_hive$"
+ leader_trait_MLT_weaver_of_shadows_3_hive_desc: "$leader_trait_MLT_weaver_of_shadows_hive_desc$"
+ 
+ leader_trait_MLT_weaver_of_shadows_machine: "Tejedor de Sombras"
+ leader_trait_MLT_weaver_of_shadows_machine_desc: "Firewalls adicionales y encriptación protegen los secretos de este líder de ojos curiosos."
+ leader_trait_MLT_weaver_of_shadows_2_machine: "$leader_trait_MLT_weaver_of_shadows_machine$"
+ leader_trait_MLT_weaver_of_shadows_2_machine_desc: "$leader_trait_MLT_weaver_of_shadows_machine_desc$"
+ leader_trait_MLT_weaver_of_shadows_3_machine: "$leader_trait_MLT_weaver_of_shadows_machine$"
+ leader_trait_MLT_weaver_of_shadows_3_machine_desc: "$leader_trait_MLT_weaver_of_shadows_machine_desc$"
+ 
+ # Dogfighter
+ 
+ leader_trait_MLT_dogfighter: "Entrenador de Pilotos"
+ leader_trait_MLT_dogfighter_desc: "Un arma grande importa poco contra una multitud de miles, y el fuego superior puede ser contrarrestado por números y velocidad."
+ leader_trait_MLT_dogfighter_2: "$leader_trait_MLT_dogfighter$"
+ leader_trait_MLT_dogfighter_2_desc: "$leader_trait_MLT_dogfighter_desc$"
+ leader_trait_MLT_dogfighter_3: "$leader_trait_MLT_dogfighter$"
+ leader_trait_MLT_dogfighter_3_desc: "$leader_trait_MLT_dogfighter_desc$"
+ 
+ leader_trait_MLT_dogfighter_hive: "Dron Enjambre"
+ leader_trait_MLT_dogfighter_hive_desc: "Este líder cree que la mejor manera de ganar una guerra es abrumar al enemigo con pura cantidad."
+ leader_trait_MLT_dogfighter_2_hive: "$leader_trait_MLT_dogfighter_hive$"
+ leader_trait_MLT_dogfighter_2_hive_desc: "$leader_trait_MLT_dogfighter_hive_desc$"
+ leader_trait_MLT_dogfighter_3_hive: "$leader_trait_MLT_dogfighter_hive$"
+ leader_trait_MLT_dogfighter_3_hive_desc: "$leader_trait_MLT_dogfighter_hive_desc$"
+ 
+ leader_trait_MLT_dogfighter_machine: "Dron Enjambre"
+ leader_trait_MLT_dogfighter_machine_desc: "Este líder cree que la mejor manera de ganar una guerra es abrumar al enemigo con pura cantidad."
+ leader_trait_MLT_dogfighter_2_machine: "$leader_trait_MLT_dogfighter_machine$"
+ leader_trait_MLT_dogfighter_2_machine_desc: "$leader_trait_MLT_dogfighter_machine_desc$"
+ leader_trait_MLT_dogfighter_3_machine: "$leader_trait_MLT_dogfighter_machine$"
+ leader_trait_MLT_dogfighter_3_machine_desc: "$leader_trait_MLT_dogfighter_machine_desc$"
+ 
+ # Escapist
+ 
+ leader_trait_MLT_escape_expert: "Maestro del Salto"
+ leader_trait_MLT_escape_expert_desc: "Con una inclinación por escapar de situaciones pegajosas, este líder es más tolerante con las retiradas que la mayoría."
+ leader_trait_MLT_escape_expert_2: "$leader_trait_MLT_escape_expert$"
+ leader_trait_MLT_escape_expert_2_desc: "$leader_trait_MLT_escape_expert_desc$"
+ leader_trait_MLT_escape_expert_3: "$leader_trait_MLT_escape_expert$"
+ leader_trait_MLT_escape_expert_3_desc: "$leader_trait_MLT_escape_expert_desc$"
+ 
+ leader_trait_MLT_escape_expert_hive: "Protocolos de Emergencia"
+ leader_trait_MLT_escape_expert_hive_desc: "Este líder implementa características de seguridad adicionales en todas las naves."
+ leader_trait_MLT_escape_expert_2_hive: "$leader_trait_MLT_escape_expert_hive$"
+ leader_trait_MLT_escape_expert_2_hive_desc: "$leader_trait_MLT_escape_expert_hive_desc$"
+ leader_trait_MLT_escape_expert_3_hive: "$leader_trait_MLT_escape_expert_hive$"
+ leader_trait_MLT_escape_expert_3_hive_desc: "$leader_trait_MLT_escape_expert_hive_desc$"
+ 
+ leader_trait_MLT_escape_expert_machine: "Protocolos de Emergencia"
+ leader_trait_MLT_escape_expert_machine_desc: "Este líder implementa características de seguridad adicionales en todas las naves."
+ leader_trait_MLT_escape_expert_2_machine: "$leader_trait_MLT_escape_expert_machine$"
+ leader_trait_MLT_escape_expert_2_machine_desc: "$leader_trait_MLT_escape_expert_machine_desc$"
+ leader_trait_MLT_escape_expert_3_machine: "$leader_trait_MLT_escape_expert_machine$"
+ leader_trait_MLT_escape_expert_3_machine_desc: "$leader_trait_MLT_escape_expert_machine_desc$"
+ 
+ # Citizen Recruiter - Destiny Trait
+ 
+ leader_trait_MLT_citizen_recruiter: "Reclutador de Ciudadanos"
+ leader_trait_MLT_citizen_recruiter_desc: "Este líder utiliza campañas de reclutamiento masivas y conscripción militar obligatoria para reforzar nuestras fuerzas."
+ leader_trait_MLT_citizen_recruiter_effect: "$EMPIRE_EFFECTS_TXT$:\n$t$Ganar §YCapacidad Naval§! igual a §Y5%§! de nuestras £pops£ totales §YPoblaciones§!."
+ 
+ ### Governor Traits ###
+ 
+ # Arms Dealer
+ 
+ leader_trait_MLT_arms_dealer: "Comerciante de Armas"
+ leader_trait_MLT_arms_dealer_desc: "Este líder facilita el comercio de armas utilizando a aquellos bajo el mando de [Root.GetHisHer] como expertos en armas y comerciantes."
+ leader_trait_MLT_arms_dealer_2: "$leader_trait_MLT_arms_dealer$"
+ leader_trait_MLT_arms_dealer_2_desc: "$leader_trait_MLT_arms_dealer_desc$"
+ leader_trait_MLT_arms_dealer_3: "$leader_trait_MLT_arms_dealer$"
+ leader_trait_MLT_arms_dealer_3_desc: "$leader_trait_MLT_arms_dealer_desc$"
+ 
+ leader_trait_MLT_arms_dealer_hive: "Rutinas de Espera"
+ leader_trait_MLT_arms_dealer_hive_desc: "En lugar de dejar que los drones militares entren en inactividad, este líder les asigna la generación de recursos adicionales para la colmena."
+ leader_trait_MLT_arms_dealer_2_hive: "$leader_trait_MLT_arms_dealer_hive$"
+ leader_trait_MLT_arms_dealer_2_hive_desc: "$leader_trait_MLT_arms_dealer_hive_desc$"
+ leader_trait_MLT_arms_dealer_3_hive: "$leader_trait_MLT_arms_dealer_hive$"
+ leader_trait_MLT_arms_dealer_3_hive_desc: "$leader_trait_MLT_arms_dealer_hive_desc$"
+ 
+ leader_trait_MLT_arms_dealer_machine: "Rutinas de Espera"
+ leader_trait_MLT_arms_dealer_machine_desc: "Este líder utiliza unidades armadas en espera para generar recursos adicionales."
+ leader_trait_MLT_arms_dealer_2_machine: "$leader_trait_MLT_arms_dealer_machine$"
+ leader_trait_MLT_arms_dealer_2_machine_desc: "$leader_trait_MLT_arms_dealer_machine_desc$"
+ leader_trait_MLT_arms_dealer_3_machine: "$leader_trait_MLT_arms_dealer_machine$"
+ leader_trait_MLT_arms_dealer_3_machine_desc: "$leader_trait_MLT_arms_dealer_machine_desc$"
+ 
+ # Parade
+ 
+ leader_trait_MLT_parade: "Organizador de Desfiles"
+ leader_trait_MLT_parade_desc: "Este líder organiza grandes desfiles militares para aumentar la moral y el sentido de unidad."
+ leader_trait_MLT_parade_2: "$leader_trait_MLT_parade$"
+ leader_trait_MLT_parade_2_desc: "$leader_trait_MLT_parade_desc$"
+ leader_trait_MLT_parade_3: "$leader_trait_MLT_parade$"
+ leader_trait_MLT_parade_3_desc: "$leader_trait_MLT_parade_desc$"
+ 
+ #leader_trait_MLT_parade_hive: ""
+ #leader_trait_MLT_parade_hive_desc: ""
+ #leader_trait_MLT_parade_2_hive: "$leader_trait_MLT_parade_hive$"
+ #leader_trait_MLT_parade_2_hive_desc: "$leader_trait_MLT_parade_hive_desc$"
+ #leader_trait_MLT_parade_3_hive: "$leader_trait_MLT_parade_hive$"
+ #leader_trait_MLT_parade_3_hive_desc: "$leader_trait_MLT_parade_hive_desc$"
+ 
+ #leader_trait_MLT_parade_machine: ""
+ #leader_trait_MLT_parade_machine_desc: ""
+ #leader_trait_MLT_parade_2_machine: "$leader_trait_MLT_parade_machine$"
+ #leader_trait_MLT_parade_2_machine_desc: "$leader_trait_MLT_parade_machine_desc$"
+ #leader_trait_MLT_parade_3_machine: "$leader_trait_MLT_parade_machine$"
+ #leader_trait_MLT_parade_3_machine_desc: "$leader_trait_MLT_parade_machine_desc$"
+ 
+ # Observer
+ 
+ leader_trait_MLT_observer: "Vigilante"
+ leader_trait_MLT_observer_desc: "Este líder nunca baja la guardia. Las estaciones de escucha masivas aseguran que toda actividad de la nave se registre y se registre."
+ leader_trait_MLT_observer_2: "$leader_trait_MLT_observer$"
+ leader_trait_MLT_observer_2_desc: "$leader_trait_MLT_observer_desc$"
+ leader_trait_MLT_observer_3: "$leader_trait_MLT_observer$"
+ leader_trait_MLT_observer_3_desc: "$leader_trait_MLT_observer_desc$"
+ 
+ leader_trait_MLT_observer_hive: "Vigilante"
+ leader_trait_MLT_observer_hive_desc: "Este líder nunca baja la guardia. Las estaciones de escucha masivas aseguran que toda actividad de la nave se registre y se registre."
+ leader_trait_MLT_observer_2_hive: "$leader_trait_MLT_observer_hive$"
+ leader_trait_MLT_observer_2_hive_desc: "$leader_trait_MLT_observer_hive_desc$"
+ leader_trait_MLT_observer_3_hive: "$leader_trait_MLT_observer_hive$"
+ leader_trait_MLT_observer_3_hive_desc: "$leader_trait_MLT_observer_hive_desc$"
+ 
+ leader_trait_MLT_observer_machine: "Protocolos de Vigilancia"
+ leader_trait_MLT_observer_machine_desc: "Este líder utiliza sensores potentes para registrar la actividad de la nave tanto cerca como lejos."
+ leader_trait_MLT_observer_2_machine: "$leader_trait_MLT_observer_machine$"
+ leader_trait_MLT_observer_2_machine_desc: "$leader_trait_MLT_observer_machine_desc$"
+ leader_trait_MLT_observer_3_machine: "$leader_trait_MLT_observer_machine$"
+ leader_trait_MLT_observer_3_machine_desc: "$leader_trait_MLT_observer_machine_desc$"
+ 
+ # Impenetrable Bulwark - Destiny Trait
+ 
+ leader_trait_MLT_impenetrable_bulwark: "Baluarte Impenetrable"
+ leader_trait_MLT_impenetrable_bulwark_desc: "Este líder está dedicado a la defensa de nuestros mundos. Nada pasa por [Root.GetHimHer]."
+ 
+ ### General Traits ###
+ 
+ # Sadistic
+ 
+ leader_trait_MLT_sadistic: "Sádico"
+ leader_trait_MLT_sadistic_desc: "Este líder ataca deliberadamente a los civiles por su propio entretenimiento."
+ leader_trait_MLT_sadistic_2: "$leader_trait_MLT_sadistic$"
+ leader_trait_MLT_sadistic_2_desc: "$leader_trait_MLT_sadistic_desc$"
+ leader_trait_MLT_sadistic_3: "$leader_trait_MLT_sadistic$"
+ leader_trait_MLT_sadistic_3_desc: "$leader_trait_MLT_sadistic_desc$"
+ 
+ leader_trait_MLT_sadistic_hive: "Sádico"
+ leader_trait_MLT_sadistic_hive_desc: "Este líder ataca deliberadamente a los civiles por su propio entretenimiento."
+ leader_trait_MLT_sadistic_2_hive: "$leader_trait_MLT_sadistic_hive$"
+ leader_trait_MLT_sadistic_2_hive_desc: "$leader_trait_MLT_sadistic_hive_desc$"
+ leader_trait_MLT_sadistic_3_hive: "$leader_trait_MLT_sadistic_hive$"
+ leader_trait_MLT_sadistic_3_hive_desc: "$leader_trait_MLT_sadistic_hive_desc$"
+ 
+ leader_trait_MLT_sadistic_machine: "Desmoralizador"
+ leader_trait_MLT_sadistic_machine_desc: "Este líder ataca deliberadamente a los civiles para asegurar que la moral permanezca baja entre los objetivos militares."
+ leader_trait_MLT_sadistic_2_machine: "$leader_trait_MLT_sadistic_machine$"
+ leader_trait_MLT_sadistic_2_machine_desc: "$leader_trait_MLT_sadistic_machine_desc$"
+ leader_trait_MLT_sadistic_3_machine: "$leader_trait_MLT_sadistic_machine$"
+ leader_trait_MLT_sadistic_3_machine_desc: "$leader_trait_MLT_sadistic_machine_desc$"
+ 
+ # Recycler
+ 
+ leader_trait_MLT_recycler: "Reciclador"
+ leader_trait_MLT_recycler_desc: "Este líder recoge el equipo de los aliados caídos para que su sacrificio pueda vivir como el camino de un nuevo recluta hacia la victoria."
+ leader_trait_MLT_recycler_2: "$leader_trait_MLT_recycler$"
+ leader_trait_MLT_recycler_2_desc: "$leader_trait_MLT_recycler_desc$"
+ leader_trait_MLT_recycler_3: "$leader_trait_MLT_recycler$"
+ leader_trait_MLT_recycler_3_desc: "$leader_trait_MLT_recycler_desc$"
+ 
+ leader_trait_MLT_recycler_hive: "Reciclador"
+ leader_trait_MLT_recycler_hive_desc: "Este líder no deja que nada se desperdicie, reduciendo la pérdida cuando se enfrenta a la derrota."
+ leader_trait_MLT_recycler_2_hive: "$leader_trait_MLT_recycler_hive$"
+ leader_trait_MLT_recycler_2_hive_desc: "$leader_trait_MLT_recycler_hive_desc$"
+ leader_trait_MLT_recycler_3_hive: "$leader_trait_MLT_recycler_hive$"
+ leader_trait_MLT_recycler_3_hive_desc: "$leader_trait_MLT_recycler_hive_desc$"
+ 
+ leader_trait_MLT_recycler_machine: "Reciclador"
+ leader_trait_MLT_recycler_machine_desc: "Este líder ha implementado un protocolo de reciclaje en su código para reducir el consumo de recursos."
+ leader_trait_MLT_recycler_2_machine: "$leader_trait_MLT_recycler_machine$"
+ leader_trait_MLT_recycler_2_machine_desc: "$leader_trait_MLT_recycler_machine_desc$"
+ leader_trait_MLT_recycler_3_machine: "$leader_trait_MLT_recycler_machine$"
+ leader_trait_MLT_recycler_3_machine_desc: "$leader_trait_MLT_recycler_machine_desc$"
+ 
+ leader_trait_MLT_recycler_tt: "$ARMY_EFFECTS_TXT$:\n$t$Cada vez que un ejército comandado por este líder muere: gana 20 £minerals£."
+ leader_trait_MLT_recycler_2_tt: "$ARMY_EFFECTS_TXT$:\n$t$Cada vez que un ejército comandado por este líder muere: gana 35 £minerals£."
+ leader_trait_MLT_recycler_3_tt: "$ARMY_EFFECTS_TXT$:\n$t$Cada vez que un ejército comandado por este líder muere: gana 50 £minerals£."
+ 
+ # Techstealer
+ 
+ leader_trait_MLT_techstealer: "Ladrón de Conocimientos"
+ leader_trait_MLT_techstealer_desc: "Este líder es conocido por ingeniería inversa de cualquier y toda tecnología extranjera en posesión de [Root.GetHisHer]."
+ leader_trait_MLT_techstealer_effect: "$ARMY_EFFECTS_TXT$:\n$t$Al ganar un combate terrestre como atacante:\n$tt$¡Roba una £research£ §YTecnología§! aleatoria!"
+ 
+ ### Admiral Traits ###
+ 
+ # Ambusher
+ 
+ leader_trait_MLT_ambusher: "Emboscador"
+ leader_trait_MLT_ambusher_desc: "Este líder prefiere ser un asesino paciente, acechando a los desprevenidos."
+ leader_trait_MLT_ambusher_2: "$leader_trait_MLT_ambusher$"
+ leader_trait_MLT_ambusher_2_desc: "$leader_trait_MLT_ambusher_desc$"
+ leader_trait_MLT_ambusher_3: "$leader_trait_MLT_ambusher$"
+ leader_trait_MLT_ambusher_3_desc: "$leader_trait_MLT_ambusher_desc$"
+ 
+ leader_trait_MLT_ambusher_hive: "Emboscador"
+ leader_trait_MLT_ambusher_hive_desc: "Este líder ha mejorado su flota con dispositivos de camuflaje de última generación, permitiendo ataques sorpresa que de otra manera no serían posibles."
+ leader_trait_MLT_ambusher_2_hive: "$leader_trait_MLT_ambusher_hive$"
+ leader_trait_MLT_ambusher_2_hive_desc: "$leader_trait_MLT_ambusher_hive_desc$"
+ leader_trait_MLT_ambusher_3_hive: "$leader_trait_MLT_ambusher_hive$"
+ leader_trait_MLT_ambusher_3_hive_desc: "$leader_trait_MLT_ambusher_hive_desc$"
+ 
+ leader_trait_MLT_ambusher_machine: "Emboscador"
+ leader_trait_MLT_ambusher_machine_desc: "Este líder ha mejorado su flota con dispositivos de camuflaje de última generación, permitiendo ataques sorpresa que de otra manera no serían posibles."
+ leader_trait_MLT_ambusher_2_machine: "$leader_trait_MLT_ambusher_machine$"
+ leader_trait_MLT_ambusher_2_machine_desc: "$leader_trait_MLT_ambusher_machine_desc$"
+ leader_trait_MLT_ambusher_3_machine: "$leader_trait_MLT_ambusher_machine$"
+ leader_trait_MLT_ambusher_3_machine_desc: "$leader_trait_MLT_ambusher_machine_desc$"
+ 
+ leader_trait_MLT_ambusher_2_effect: "$FLEET_EFFECTS_TXT$:\n$t$Fuerza de Camuflaje: §G+1§!\n$t$30 días después de desenmascarar:\n$tt$Daño de Armas de Nave: §G+10%§!"
+ leader_trait_MLT_ambusher_3_effect: "$FLEET_EFFECTS_TXT$:\n$t$Fuerza de Camuflaje: §G+1§!\n$t$30 días después de desenmascarar:\n$tt$Daño de Armas de Nave: §G+25%§!"
+ 
+ # Glory Chaser
+ 
+ leader_trait_MLT_glory_chaser: "Cazador de Gloria"
+ leader_trait_MLT_glory_chaser_desc: "El objetivo de este líder en la vida es ser reconocido como un héroe sin miedo que ganó contra cualquier cosa a pesar de las probabilidades."
+ leader_trait_MLT_glory_chaser_2: "$leader_trait_MLT_glory_chaser$"
+ leader_trait_MLT_glory_chaser_2_desc: "$leader_trait_MLT_glory_chaser_desc$"
+ leader_trait_MLT_glory_chaser_3: "$leader_trait_MLT_glory_chaser$"
+ leader_trait_MLT_glory_chaser_3_desc: "$leader_trait_MLT_glory_chaser_desc$"
+ 
+ #leader_trait_MLT_glory_chaser_hive: ""
+ #leader_trait_MLT_glory_chaser_hive_desc: ""
+ #leader_trait_MLT_glory_chaser_2_hive: "$leader_trait_MLT_glory_chaser_hive$"
+ #leader_trait_MLT_glory_chaser_2_hive_desc: "$leader_trait_MLT_glory_chaser_hive_desc$"
+ #leader_trait_MLT_glory_chaser_3_hive: "$leader_trait_MLT_glory_chaser_hive$"
+ #leader_trait_MLT_glory_chaser_3_hive_desc: "$leader_trait_MLT_glory_chaser_hive_desc$"
+ 
+ leader_trait_MLT_glory_chaser_machine: "Vía Rápida"
+ leader_trait_MLT_glory_chaser_machine_desc: "Esta unidad tiene un tiempo de respuesta increíblemente bajo, permitiendo recalibraciones rápidas de su flota al entrar en combate."
+ leader_trait_MLT_glory_chaser_2_machine: "$leader_trait_MLT_glory_chaser_machine$"
+ leader_trait_MLT_glory_chaser_2_machine_desc: "$leader_trait_MLT_glory_chaser_machine_desc$"
+ leader_trait_MLT_glory_chaser_3_machine: "$leader_trait_MLT_glory_chaser_machine$"
+ leader_trait_MLT_glory_chaser_3_machine_desc: "$leader_trait_MLT_glory_chaser_machine_desc$"
+ 
+ leader_trait_MLT_glory_chaser_effect: "$FLEET_EFFECTS_TXT$:\n$t$Velocidad Subluz: §G+5%§!\n$t$Durante los primeros 30 días de combate:\n$tt$Cadencia de Fuego de la Nave: §G+15%§!"
+ leader_trait_MLT_glory_chaser_2_effect: "$FLEET_EFFECTS_TXT$:\n$t$Velocidad Subluz: §G+5%§!\n$t$Durante los primeros 30 días de combate:\n$tt$Cadencia de Fuego de la Nave: §G+25%§!"
+ leader_trait_MLT_glory_chaser_3_effect: "$FLEET_EFFECTS_TXT$:\n$t$Velocidad Subluz: §G+5%§!\n$t$Durante los primeros 30 días de combate:\n$tt$Cadencia de Fuego de la Nave: §G+35%§!"
+ 
+ # Black Hole Specialist - Untiered Trait
+ 
+ leader_trait_MLT_black_hole_specialist: "Especialista en Agujeros Negros"
+ leader_trait_MLT_black_hole_specialist_desc: "Este líder tiene una formación avanzada en los efectos de las ondas gravitacionales en los movimientos de la flota."
+ leader_trait_MLT_black_hole_specialist_effect: "$FLEET_EFFECTS_TXT$:\n$t$Anula los efectos negativos de los Agujeros Negros"
+ 
+ # FTL expert
+ 
+ leader_trait_MLT_FTL_expert: "Experto en UL"
+ leader_trait_MLT_FTL_expert_desc: "Las unidades de UL personalizadas de este líder aumentan considerablemente su tiempo de respuesta."
+ leader_trait_MLT_FTL_expert_2: "$leader_trait_MLT_FTL_expert$"
+ leader_trait_MLT_FTL_expert_2_desc: "$leader_trait_MLT_FTL_expert_desc$"
+ leader_trait_MLT_FTL_expert_3: "$leader_trait_MLT_FTL_expert$"
+ leader_trait_MLT_FTL_expert_3_desc: "$leader_trait_MLT_FTL_expert_desc$"
+ 
+ leader_trait_MLT_FTL_expert_hive: "Impulsor de Subespacio"
+ leader_trait_MLT_FTL_expert_hive_desc: "Este líder se ha sintonizado con el patrón de fondo del subespacio, permitiéndole viajar por las hipervías con la menor cantidad de turbulencia."
+ leader_trait_MLT_FTL_expert_2_hive: "$leader_trait_MLT_FTL_expert_hive$"
+ leader_trait_MLT_FTL_expert_2_hive_desc: "$leader_trait_MLT_FTL_expert_hive_desc$"
+ leader_trait_MLT_FTL_expert_3_hive: "$leader_trait_MLT_FTL_expert_hive$"
+ leader_trait_MLT_FTL_expert_3_hive_desc: "$leader_trait_MLT_FTL_expert_hive_desc$"
+ 
+ leader_trait_MLT_FTL_expert_machine: "Analista de Hipervías"
+ leader_trait_MLT_FTL_expert_machine_desc: "Esta unidad ha dedicado parte de sus procesos internos a descifrar el misterio que son las hipervías, permitiendo un dominio mucho mayor del viaje dentro de ellas."
+ leader_trait_MLT_FTL_expert_2_machine: "$leader_trait_MLT_FTL_expert_machine$"
+ leader_trait_MLT_FTL_expert_2_machine_desc: "$leader_trait_MLT_FTL_expert_machine_desc$"
+ leader_trait_MLT_FTL_expert_3_machine: "$leader_trait_MLT_FTL_expert_machine$"
+ leader_trait_MLT_FTL_expert_3_machine_desc: "$leader_trait_MLT_FTL_expert_machine_desc$"
+ 
+ # Darkstalker - Destiny Trait
+ 
+ leader_trait_MLT_darkstalker: "Merodeador Oscuro"
+ leader_trait_MLT_darkstalker_desc: "La oscuridad será engañada por su propia astucia antes de que se haga la paz."
+ #"Hidden from the eye, stalking the darkness through its own domain."
+ leader_trait_MLT_darkstalker_effect: "$FLEET_EFFECTS_TXT$:\n$t$Fuerza de Camuflaje: §G+2§!\n$t$Pérdida de Velocidad Subluz por Camuflaje: §G-100%§!\n$t$Mientras está Camuflado:\n$tt$Velocidad Subluz: §G+25%§!"
+ 
+ ####################
+ # Scientist Traits #
+ ####################
+ 
+ ### Explorer Traits ###
+ 
+ # Thrill
+ 
+ leader_trait_MLT_thrill: "Buscador de Emociones"
+ leader_trait_MLT_thrill_desc: "Este líder anhela la emoción del peligro."
+ leader_trait_MLT_thrill_2: "$leader_trait_MLT_thrill$"
+ leader_trait_MLT_thrill_2_desc: "$leader_trait_MLT_thrill_desc$"
+ leader_trait_MLT_thrill_3: "$leader_trait_MLT_thrill$"
+ leader_trait_MLT_thrill_3_desc: "$leader_trait_MLT_thrill_desc$"
+ 
+ #leader_trait_MLT_thrill_hive: ""
+ #leader_trait_MLT_thrill_hive_desc: ""
+ #leader_trait_MLT_thrill_2_hive: "$leader_trait_MLT_thrill_hive$"
+ #leader_trait_MLT_thrill_2_hive_desc: "$leader_trait_MLT_thrill_hive_desc$"
+ #leader_trait_MLT_thrill_3_hive: "$leader_trait_MLT_thrill_hive$"
+ #leader_trait_MLT_thrill_3_hive_desc: "$leader_trait_MLT_thrill_hive_desc$"
+ 
+ #leader_trait_MLT_thrill_machine: ""
+ #leader_trait_MLT_thrill_machine_desc: ""
+ #leader_trait_MLT_thrill_2_machine: "$leader_trait_MLT_thrill_machine$"
+ #leader_trait_MLT_thrill_2_machine_desc: "$leader_trait_MLT_thrill_machine_desc$"
+ #leader_trait_MLT_thrill_3_machine: "$leader_trait_MLT_thrill_machine$"
+ #leader_trait_MLT_thrill_3_machine_desc: "$leader_trait_MLT_thrill_machine_desc$"
+ 
+ leader_trait_MLT_thrill_effect: "§G-25%§! mantenimiento mientras está fuera de nuestras fronteras"
+ leader_trait_MLT_thrill_2_effect: "§G-50%§! mantenimiento mientras está fuera de nuestras fronteras"
+ leader_trait_MLT_thrill_3_effect: "§G-75%§! mantenimiento mientras está fuera de nuestras fronteras"
+ 
+ # Self Sufficient
+ 
+ leader_trait_MLT_self_sufficient: "Autosuficiente"
+ leader_trait_MLT_self_sufficient_desc: "Este líder sabe cómo arreglárselas con lo que [Root.GetHeShe] tiene, y posee las habilidades necesarias para solucionar cualquier problema por [Root.GetHisHer] cuenta."
+ leader_trait_MLT_self_sufficient_2: "$leader_trait_MLT_self_sufficient$"
+ leader_trait_MLT_self_sufficient_2_desc: "$leader_trait_MLT_self_sufficient_desc$"
+ leader_trait_MLT_self_sufficient_3: "$leader_trait_MLT_self_sufficient$"
+ leader_trait_MLT_self_sufficient_3_desc: "$leader_trait_MLT_self_sufficient_desc$"
+ 
+ leader_trait_MLT_self_sufficient_hive: "Mayor Autonomía"
+ leader_trait_MLT_self_sufficient_hive_desc: "La mayor autonomía de este líder permite más que la mayoría."
+ leader_trait_MLT_self_sufficient_2_hive: "$leader_trait_MLT_self_sufficient_hive$"
+ leader_trait_MLT_self_sufficient_2_hive_desc: "$leader_trait_MLT_self_sufficient_hive_desc$"
+ leader_trait_MLT_self_sufficient_3_hive: "$leader_trait_MLT_self_sufficient_hive$"
+ leader_trait_MLT_self_sufficient_3_hive_desc: "$leader_trait_MLT_self_sufficient_hive_desc$"
+ 
+ leader_trait_MLT_self_sufficient_machine: "Mayor Autonomía"
+ leader_trait_MLT_self_sufficient_machine_desc: "La mayor autonomía de este líder permite más que la mayoría."
+ leader_trait_MLT_self_sufficient_2_machine: "$leader_trait_MLT_self_sufficient_machine$"
+ leader_trait_MLT_self_sufficient_2_machine_desc: "$leader_trait_MLT_self_sufficient_machine_desc$"
+ leader_trait_MLT_self_sufficient_3_machine: "$leader_trait_MLT_self_sufficient_machine$"
+ leader_trait_MLT_self_sufficient_3_machine_desc: "$leader_trait_MLT_self_sufficient_machine_desc$"
+ 
+ ### Scholar Traits ###
+ 
+ ### Analyst Traits ###
+ 
+ # Private Research
+ 
+ leader_trait_MLT_private_research: "Instalaciones de Investigación Privadas"
+ leader_trait_MLT_private_research_desc: "Este líder ha dedicado parte de su propia fortuna a la investigación de nuestro imperio."
+ leader_trait_MLT_private_research_2: "$leader_trait_MLT_private_research$"
+ leader_trait_MLT_private_research_2_desc: "$leader_trait_MLT_private_research_desc$"
+ leader_trait_MLT_private_research_3: "$leader_trait_MLT_private_research$"
+ leader_trait_MLT_private_research_3_desc: "$leader_trait_MLT_private_research_desc$"
+ 
+ leader_trait_MLT_private_research_hive: "Inclinación a la Investigación"
+ leader_trait_MLT_private_research_hive_desc: "Este líder cree que nuestras capacidades de investigación son de suma importancia."
+ leader_trait_MLT_private_research_2_hive: "$leader_trait_MLT_private_research_hive$"
+ leader_trait_MLT_private_research_2_hive_desc: "$leader_trait_MLT_private_research_hive_desc$"
+ leader_trait_MLT_private_research_3_hive: "$leader_trait_MLT_private_research_hive$"
+ leader_trait_MLT_private_research_3_hive_desc: "$leader_trait_MLT_private_research_hive_desc$"
+ 
+ leader_trait_MLT_private_research_machine: "Base de Datos de Investigación"
+ leader_trait_MLT_private_research_machine_desc: "Este líder mantiene una base de datos privada llena de información científica."
+ leader_trait_MLT_private_research_2_machine: "$leader_trait_MLT_private_research_machine$"
+ leader_trait_MLT_private_research_2_machine_desc: "$leader_trait_MLT_private_research_machine_desc$"
+ leader_trait_MLT_private_research_3_machine: "$leader_trait_MLT_private_research_machine$"
+ leader_trait_MLT_private_research_3_machine_desc: "$leader_trait_MLT_private_research_machine_desc$"
+ 
+ # Astral Researcher
+ 
+ leader_trait_MLT_astral_researcher: "Investigador Astral"
+ leader_trait_MLT_astral_researcher_desc: "Este líder está fascinado por las brechas entre dimensiones, y se están desviando muchos fondos hacia el estudio de lo ultraterrenal."
+ leader_trait_MLT_astral_researcher_2: "$leader_trait_MLT_astral_researcher$"
+ leader_trait_MLT_astral_researcher_2_desc: "$leader_trait_MLT_astral_researcher_desc$"
+ leader_trait_MLT_astral_researcher_3: "$leader_trait_MLT_astral_researcher$"
+ leader_trait_MLT_astral_researcher_3_desc: "$leader_trait_MLT_astral_researcher_desc$"
+ 
+ leader_trait_MLT_astral_researcher_hive: "Investigador Astral"
+ leader_trait_MLT_astral_researcher_hive_desc: "Este líder está fascinado por las brechas entre dimensiones, y se están desviando muchos recursos hacia el estudio de lo ultraterrenal."
+ leader_trait_MLT_astral_researcher_2_hive: "$leader_trait_MLT_astral_researcher_hive$"
+ leader_trait_MLT_astral_researcher_2_hive_desc: "$leader_trait_MLT_astral_researcher_hive_desc$"
+ leader_trait_MLT_astral_researcher_3_hive: "$leader_trait_MLT_astral_researcher_hive$"
+ leader_trait_MLT_astral_researcher_3_hive_desc: "$leader_trait_MLT_astral_researcher_hive_desc$"
+ 
+ leader_trait_MLT_astral_researcher_machine: "Investigador Astral"
+ leader_trait_MLT_astral_researcher_machine_desc: "Este líder está fascinado por las brechas entre dimensiones, y se están desviando muchos recursos hacia el estudio de lo ultraterrenal."
+ leader_trait_MLT_astral_researcher_2_machine: "$leader_trait_MLT_astral_researcher_machine$"
+ leader_trait_MLT_astral_researcher_2_machine_desc: "$leader_trait_MLT_astral_researcher_machine_desc$"
+ leader_trait_MLT_astral_researcher_3_machine: "$leader_trait_MLT_astral_researcher_machine$"
+ leader_trait_MLT_astral_researcher_3_machine_desc: "$leader_trait_MLT_astral_researcher_machine_desc$"
+ 
+ # Excavator
+ 
+ leader_trait_MLT_excavator: "Excavador Arqueológico"
+ leader_trait_MLT_excavator_desc: "Este líder tiene mucho cuidado de no dañar ningún remanente antiguo al planificar la infraestructura."
+ leader_trait_MLT_excavator_2: "$leader_trait_MLT_excavator$"
+ leader_trait_MLT_excavator_2_desc: "$leader_trait_MLT_excavator_desc$"
+ leader_trait_MLT_excavator_3: "$leader_trait_MLT_excavator$"
+ leader_trait_MLT_excavator_3_desc: "$leader_trait_MLT_excavator_desc$"
+ 
+ leader_trait_MLT_excavator_hive: "Dron de Excavación"
+ leader_trait_MLT_excavator_hive_desc: "Este dron es capaz de construir infraestructura de colmena sin dañar restos antiguos."
+ leader_trait_MLT_excavator_2_hive: "$leader_trait_MLT_excavator_hive$"
+ leader_trait_MLT_excavator_2_hive_desc: "$leader_trait_MLT_excavator_hive_desc$"
+ leader_trait_MLT_excavator_3_hive: "$leader_trait_MLT_excavator_hive$"
+ leader_trait_MLT_excavator_3_hive_desc: "$leader_trait_MLT_excavator_hive_desc$"
+ 
+ leader_trait_MLT_excavator_machine: "Directivas Arqueológicas"
+ leader_trait_MLT_excavator_machine_desc: "Esta unidad tiene mucho cuidado de no dañar ningún remanente antiguo al planificar la infraestructura."
+ leader_trait_MLT_excavator_2_machine: "$leader_trait_MLT_excavator_machine$"
+ leader_trait_MLT_excavator_2_machine_desc: "$leader_trait_MLT_excavator_machine_desc$"
+ leader_trait_MLT_excavator_3_machine: "$leader_trait_MLT_excavator_machine$"
+ leader_trait_MLT_excavator_3_machine_desc: "$leader_trait_MLT_excavator_machine_desc$"
+ 
+ # Cloning Expert
+ 
+ leader_trait_MLT_cloning_expert: "Clonador"
+ leader_trait_MLT_cloning_expert_desc: "Este líder utiliza técnicas de clonación avanzadas para aumentar nuestro crecimiento poblacional."
+ leader_trait_MLT_cloning_expert_2: "$leader_trait_MLT_cloning_expert$"
+ leader_trait_MLT_cloning_expert_2_desc: "$leader_trait_MLT_cloning_expert_desc$"
+ leader_trait_MLT_cloning_expert_3: "$leader_trait_MLT_cloning_expert$"
+ leader_trait_MLT_cloning_expert_3_desc: "$leader_trait_MLT_cloning_expert_desc$"
+ 
+ leader_trait_MLT_cloning_expert_hive: "Clonador"
+ leader_trait_MLT_cloning_expert_hive_desc: "Este líder utiliza técnicas de clonación avanzadas para aumentar nuestro crecimiento poblacional."
+ leader_trait_MLT_cloning_expert_2_hive: "$leader_trait_MLT_cloning_expert_hive$"
+ leader_trait_MLT_cloning_expert_2_hive_desc: "$leader_trait_MLT_cloning_expert_hive_desc$"
+ leader_trait_MLT_cloning_expert_3_hive: "$leader_trait_MLT_cloning_expert_hive$"
+ leader_trait_MLT_cloning_expert_3_hive_desc: "$leader_trait_MLT_cloning_expert_hive_desc$"
+ 
+ leader_trait_MLT_cloning_expert_machine: "Clonador"
+ leader_trait_MLT_cloning_expert_machine_desc: "Este líder utiliza técnicas de clonación avanzadas para aumentar nuestro crecimiento poblacional orgánico."
+ leader_trait_MLT_cloning_expert_2_machine: "$leader_trait_MLT_cloning_expert_machine$"
+ leader_trait_MLT_cloning_expert_2_machine_desc: "$leader_trait_MLT_cloning_expert_desc$"
+ leader_trait_MLT_cloning_expert_3_machine: "$leader_trait_MLT_cloning_expert_machine$"
+ leader_trait_MLT_cloning_expert_3_machine_desc: "$leader_trait_MLT_cloning_expert_machine_desc$"
+ 
+ # Dark Matter Specialist - Destiny Trait
+ 
+ leader_trait_MLT_dark_matter_specialist: "Especialista en Materia Oscura"
+ leader_trait_MLT_dark_matter_specialist_desc: "Un experto en el campo de la materia oscura y sus aplicaciones teóricas y prácticas, este líder es uno de los pocos que puede supervisar de manera segura la producción de materia oscura sintética."
+ 
+ ### Statistican Traits ###
+ 
+ # Megastructure Expert
+ 
+ leader_trait_MLT_megastructure_expert: "Experto en Mega-Ingeniería"
+ leader_trait_MLT_megastructure_expert_desc: "Este líder es un gran defensor de la mega-ingeniería, y tiene un gran conocimiento de ella."
+ leader_trait_MLT_megastructure_expert_2: "$leader_trait_MLT_megastructure_expert$"
+ leader_trait_MLT_megastructure_expert_2_desc: "$leader_trait_MLT_megastructure_expert_desc$"
+ leader_trait_MLT_megastructure_expert_3: "$leader_trait_MLT_megastructure_expert$"
+ leader_trait_MLT_megastructure_expert_3_desc: "$leader_trait_MLT_megastructure_expert_desc$"
+ 
+ leader_trait_MLT_megastructure_expert_hive: "Dron de Mega-Ingeniería"
+ leader_trait_MLT_megastructure_expert_hive_desc: "Este líder ha recibido una formación especial en el arte de la mega-ingeniería, permitiendo construcciones más rápidas y mejores."
+ leader_trait_MLT_megastructure_expert_2_hive: "$leader_trait_MLT_megastructure_expert_hive$"
+ leader_trait_MLT_megastructure_expert_2_hive_desc: "$leader_trait_MLT_megastructure_expert_hive_desc$"
+ leader_trait_MLT_megastructure_expert_3_hive: "$leader_trait_MLT_megastructure_expert_hive$"
+ leader_trait_MLT_megastructure_expert_3_hive_desc: "$leader_trait_MLT_megastructure_expert_hive_desc$"
+ 
+ leader_trait_MLT_megastructure_expert_machine: "Unidad de Mega-Ingeniería"
+ leader_trait_MLT_megastructure_expert_machine_desc: "Este líder ha copiado todos los datos de nuestro imperio sobre el tema de la Mega-Ingeniería en su propia base de datos, y continúa iterando sobre ella."
+ leader_trait_MLT_megastructure_expert_2_machine: "$leader_trait_MLT_megastructure_expert_machine$"
+ leader_trait_MLT_megastructure_expert_2_machine_desc: "$leader_trait_MLT_megastructure_expert_machine_desc$"
+ leader_trait_MLT_megastructure_expert_3_machine: "$leader_trait_MLT_megastructure_expert_machine$"
+ leader_trait_MLT_megastructure_expert_3_machine_desc: "$leader_trait_MLT_megastructure_expert_machine_desc$"
+ 
+ # Space Researcher
+ 
+ leader_trait_MLT_space_researcher: "Investigador Zero-G"
+ leader_trait_MLT_space_researcher_desc: "Un brillante investigador con una inclinación hacia la investigación más allá del pozo gravitacional."
+ leader_trait_MLT_space_researcher_2: "$leader_trait_MLT_space_researcher$"
+ leader_trait_MLT_space_researcher_2_desc: "$leader_trait_MLT_space_researcher_desc$"
+ leader_trait_MLT_space_researcher_3: "$leader_trait_MLT_space_researcher$"
+ leader_trait_MLT_space_researcher_3_desc: "$leader_trait_MLT_space_researcher_desc$"
+ 
+ leader_trait_MLT_space_researcher_hive: "Investigador Zero-G"
+ leader_trait_MLT_space_researcher_hive_desc: "Este líder trabaja mejor con datos que no han sido contaminados por la gravedad."
+ leader_trait_MLT_space_researcher_2_hive: "$leader_trait_MLT_space_researcher_hive$"
+ leader_trait_MLT_space_researcher_2_hive_desc: "$leader_trait_MLT_space_researcher_hive_desc$"
+ leader_trait_MLT_space_researcher_3_hive: "$leader_trait_MLT_space_researcher_hive$"
+ leader_trait_MLT_space_researcher_3_hive_desc: "$leader_trait_MLT_space_researcher_hive_desc$"
+ 
+ leader_trait_MLT_space_researcher_machine: "Investigador Zero-G"
+ leader_trait_MLT_space_researcher_machine_desc: "Esta unidad valora más los datos de las instalaciones Zero-G que otras fuentes, citando el efecto disruptivo que la gravedad tiene en la recolección de datos."
+ leader_trait_MLT_space_researcher_2_machine: "$leader_trait_MLT_space_researcher_machine$"
+ leader_trait_MLT_space_researcher_2_machine_desc: "$leader_trait_MLT_space_researcher_machine_desc$"
+ leader_trait_MLT_space_researcher_3_machine: "$leader_trait_MLT_space_researcher_machine$"
+ leader_trait_MLT_space_researcher_3_machine_desc: "$leader_trait_MLT_space_researcher_machine_desc$"
+ 
+ # Megaengineering Overseer
+ 
+ leader_trait_MLT_megaengineering_overseer: "Supervisor de Mega-Construcción"
+ leader_trait_MLT_megaengineering_overseer_desc: "Este líder es un mega-ingeniero hábil, capaz de supervisar proyectos enormes con miles de millones de trabajadores y personal."
+ 
+ # Wonderworlds - Destiny Trait
+ 
+ leader_trait_MLT_wonderworlds: "Creador de Paraísos"
+ leader_trait_MLT_wonderworlds_desc: "Tomar las cosas en sus propios apéndices es cómo hace las cosas este líder. Un experto en ambos campos de la Terraformación y la Ingeniería Megaestructural combinada, este líder tiene el control total cuando se trata del diseño de mundos artificiales."
+ leader_trait_MLT_wonderworlds_effect: "$EMPIRE_EFFECTS_TXT$:\n$t$Recursos de trabajos en Mundos Artificiales: §G+10%§!"
+ 
+ ###################
+ # Official Traits #
+ ###################
+ 
+ ### Governor Traits ###
+ 
+ # Concrete Constructor
+ 
+ leader_trait_MLT_concrete_constructor: "Constructor de Concreto"
+ leader_trait_MLT_concrete_constructor_desc: "Este líder es un fanático del concreto, asegurándose de que se use en todos los proyectos de construcción bajo su supervisión. Algunos pueden decir que es aburrido y soso, pero con suficiente refuerzo cualquiera puede ser convencido de su elegancia."
+ leader_trait_MLT_concrete_constructor_2: "$leader_trait_MLT_concrete_constructor$"
+ leader_trait_MLT_concrete_constructor_2_desc: "$leader_trait_MLT_concrete_constructor_desc$"
+ leader_trait_MLT_concrete_constructor_3: "$leader_trait_MLT_concrete_constructor$"
+ leader_trait_MLT_concrete_constructor_3_desc: "$leader_trait_MLT_concrete_constructor_desc$"
+ 
+ leader_trait_MLT_concrete_constructor_hive: "Construcciones Eficientes"
+ leader_trait_MLT_concrete_constructor_hive_desc: "A este líder le importa poco la estética, prefiriendo la eficiencia y la uniformidad."
+ leader_trait_MLT_concrete_constructor_2_hive: "$leader_trait_MLT_concrete_constructor_hive$"
+ leader_trait_MLT_concrete_constructor_2_hive_desc: "$leader_trait_MLT_concrete_constructor_hive_desc$"
+ leader_trait_MLT_concrete_constructor_3_hive: "$leader_trait_MLT_concrete_constructor_hive$"
+ leader_trait_MLT_concrete_constructor_3_hive_desc: "$leader_trait_MLT_concrete_constructor_hive_desc$"
+ 
+ leader_trait_MLT_concrete_constructor_machine: "Construcciones Eficientes"
+ leader_trait_MLT_concrete_constructor_machine_desc: "A este líder le importa poco la estética, prefiriendo la eficiencia y la uniformidad."
+ leader_trait_MLT_concrete_constructor_2_machine: "$leader_trait_MLT_concrete_constructor_machine$"
+ leader_trait_MLT_concrete_constructor_2_machine_desc: "$leader_trait_MLT_concrete_constructor_machine_desc$"
+ leader_trait_MLT_concrete_constructor_3_machine: "$leader_trait_MLT_concrete_constructor_machine$"
+ leader_trait_MLT_concrete_constructor_3_machine_desc: "$leader_trait_MLT_concrete_constructor_machine_desc$"
+ 
+ # Lawyer
+ 
+ leader_trait_MLT_lawyer: "Abogado"
+ leader_trait_MLT_lawyer_desc: "Este líder es un experto en legislación local, permitiendo una aprobación más rápida de nuevos proyectos."
+ leader_trait_MLT_lawyer_2: "$leader_trait_MLT_lawyer$"
+ leader_trait_MLT_lawyer_2_desc: "$leader_trait_MLT_lawyer_desc$"
+ leader_trait_MLT_lawyer_3: "$leader_trait_MLT_lawyer$"
+ leader_trait_MLT_lawyer_3_desc: "$leader_trait_MLT_lawyer_desc$"
+ 
+ leader_trait_MLT_lawyer_hive: "Coordinador de Flujo de Trabajo"
+ leader_trait_MLT_lawyer_hive_desc: "Un buen flujo de trabajo es fácil de crear cuando puedes controlar todos los cuerpos."
+ leader_trait_MLT_lawyer_2_hive: "$leader_trait_MLT_lawyer_hive$"
+ leader_trait_MLT_lawyer_2_hive_desc: "$leader_trait_MLT_lawyer_hive_desc$"
+ leader_trait_MLT_lawyer_3_hive: "$leader_trait_MLT_lawyer_hive$"
+ leader_trait_MLT_lawyer_3_hive_desc: "$leader_trait_MLT_lawyer_hive_desc$"
+ 
+ leader_trait_MLT_lawyer_machine: "Coordinador de Flujo de Trabajo"
+ leader_trait_MLT_lawyer_machine_desc: "Este líder crea protocolos personalizados para los drones de construcción para cada nuevo proyecto."
+ leader_trait_MLT_lawyer_2_machine: "$leader_trait_MLT_lawyer_machine$"
+ leader_trait_MLT_lawyer_2_machine_desc: "$leader_trait_MLT_lawyer_machine_desc$"
+ leader_trait_MLT_lawyer_3_machine: "$leader_trait_MLT_lawyer_machine$"
+ leader_trait_MLT_lawyer_3_machine_desc: "$leader_trait_MLT_lawyer_machine_desc$"
+ 
+ # Bureaucrat
+ 
+ leader_trait_MLT_bureaucrat: "Privilegios Administrativos"
+ leader_trait_MLT_bureaucrat_desc: "En el dominio de este líder hay mucho elogio para aquellos que ocupan puestos administrativos y burocráticos."
+ leader_trait_MLT_bureaucrat_2: "$leader_trait_MLT_bureaucrat$"
+ leader_trait_MLT_bureaucrat_2_desc: "$leader_trait_MLT_bureaucrat_desc$"
+ leader_trait_MLT_bureaucrat_3: "$leader_trait_MLT_bureaucrat$"
+ leader_trait_MLT_bureaucrat_3_desc: "$leader_trait_MLT_bureaucrat_desc$"
+ 
+ leader_trait_MLT_bureaucrat_hive: "Dron Coordinador"
+ leader_trait_MLT_bureaucrat_hive_desc: "Este líder asegura que todos los coordinadores estén coordinados entre sí, asegurando la coordinación para todos los demás drones en el proceso."
+ leader_trait_MLT_bureaucrat_2_hive: "$leader_trait_MLT_bureaucrat_hive$"
+ leader_trait_MLT_bureaucrat_2_hive_desc: "$leader_trait_MLT_bureaucrat_hive_desc$"
+ leader_trait_MLT_bureaucrat_3_hive: "$leader_trait_MLT_bureaucrat_hive$"
+ leader_trait_MLT_bureaucrat_3_hive_desc: "$leader_trait_MLT_bureaucrat_hive_desc$"
+ 
+ leader_trait_MLT_bureaucrat_machine: "Unidad Coordinadora"
+ leader_trait_MLT_bureaucrat_machine_desc: "Este líder utiliza un registro extenso para asegurar que todo esté contabilizado."
+ leader_trait_MLT_bureaucrat_2_machine: "$leader_trait_MLT_bureaucrat_machine$"
+ leader_trait_MLT_bureaucrat_2_machine_desc: "$leader_trait_MLT_bureaucrat_machine_desc$"
+ leader_trait_MLT_bureaucrat_3_machine: "$leader_trait_MLT_bureaucrat_machine$"
+ leader_trait_MLT_bureaucrat_3_machine_desc: "$leader_trait_MLT_bureaucrat_machine_desc$"
+ 
+ # Migration Overseer
+ 
+ leader_trait_MLT_migration_overseer: "Supervisor de Migración"
+ leader_trait_MLT_migration_overseer_desc: "Este líder a menudo participa en campañas que anuncian la migración a su planeta y ayuda a los recién llegados a instalarse."
+ 
+ ### Delegate Traits ###
+ 
+ # Federal Navigator
+ 
+ leader_trait_MLT_federal_navigator: "Navegador Colaborativo"
+ leader_trait_MLT_federal_navigator_desc: "Este delegado a menudo incluye a los navegadores de la federación en cualquier reunión, asegurando que cualquier plan que se elabore no interfiera con el tráfico local."
+ leader_trait_MLT_federal_navigator_2: "$leader_trait_MLT_federal_navigator$"
+ leader_trait_MLT_federal_navigator_2_desc: "$leader_trait_MLT_federal_navigator_desc$"
+ leader_trait_MLT_federal_navigator_3: "$leader_trait_MLT_federal_navigator$"
+ leader_trait_MLT_federal_navigator_3_desc: "$leader_trait_MLT_federal_navigator_desc$"
+ 
+ leader_trait_MLT_federal_navigator_hive: "Navegador Colaborativo"
+ leader_trait_MLT_federal_navigator_hive_desc: "Este delegado a menudo incluye a los navegadores de la federación en cualquier reunión, asegurando que cualquier plan que se elabore no interfiera con el tráfico local."
+ leader_trait_MLT_federal_navigator_2_hive: "$leader_trait_MLT_federal_navigator_hive$"
+ leader_trait_MLT_federal_navigator_2_hive_desc: "$leader_trait_MLT_federal_navigator_hive_desc$"
+ leader_trait_MLT_federal_navigator_3_hive: "$leader_trait_MLT_federal_navigator_hive$"
+ leader_trait_MLT_federal_navigator_3_hive_desc: "$leader_trait_MLT_federal_navigator_hive_desc$"
+ 
+ leader_trait_MLT_federal_navigator_machine: "Navegador Colaborativo"
+ leader_trait_MLT_federal_navigator_machine_desc: "Este delegado a menudo incluye a los navegadores de la federación en cualquier reunión, asegurando que cualquier plan que se elabore no interfiera con el tráfico local."
+ leader_trait_MLT_federal_navigator_2_machine: "$leader_trait_MLT_federal_navigator_machine$"
+ leader_trait_MLT_federal_navigator_2_machine_desc: "$leader_trait_MLT_federal_navigator_machine_desc$"
+ leader_trait_MLT_federal_navigator_3_machine: "$leader_trait_MLT_federal_navigator_machine$"
+ leader_trait_MLT_federal_navigator_3_machine_desc: "$leader_trait_MLT_federal_navigator_machine_desc$"
+ 
+ # Federal Researcher
+ 
+ leader_trait_MLT_federal_researcher: "Compartidor de Conocimientos"
+ leader_trait_MLT_federal_researcher_desc: "Al compartir nuestra investigación entre nosotros, todos salimos más fuertes al final."
+ leader_trait_MLT_federal_researcher_2: "$leader_trait_MLT_federal_researcher$"
+ leader_trait_MLT_federal_researcher_2_desc: "$leader_trait_MLT_federal_researcher_desc$"
+ leader_trait_MLT_federal_researcher_3: "$leader_trait_MLT_federal_researcher$"
+ leader_trait_MLT_federal_researcher_3_desc: "$leader_trait_MLT_federal_researcher_desc$"
+ 
+ leader_trait_MLT_federal_researcher_hive: "Intercambiador de Conocimientos"
+ leader_trait_MLT_federal_researcher_hive_desc: "El beneficio de obtener acceso a las bases de datos de nuestros aliados supera los riesgos que vienen con ellos obteniendo acceso a las nuestras."
+ leader_trait_MLT_federal_researcher_2_hive: "$leader_trait_MLT_federal_researcher_hive$"
+ leader_trait_MLT_federal_researcher_2_hive_desc: "$leader_trait_MLT_federal_researcher_hive_desc$"
+ leader_trait_MLT_federal_researcher_3_hive: "$leader_trait_MLT_federal_researcher_hive$"
+ leader_trait_MLT_federal_researcher_3_hive_desc: "$leader_trait_MLT_federal_researcher_hive_desc$"
+ 
+ leader_trait_MLT_federal_researcher_machine: "Bases de Datos Compartidas"
+ leader_trait_MLT_federal_researcher_machine_desc: "El beneficio de obtener acceso a las bases de datos de nuestros aliados supera los riesgos que vienen con ellos obteniendo acceso a las nuestras."
+ leader_trait_MLT_federal_researcher_2_machine: "$leader_trait_MLT_federal_researcher_machine$"
+ leader_trait_MLT_federal_researcher_2_machine_desc: "$leader_trait_MLT_federal_researcher_machine_desc$"
+ leader_trait_MLT_federal_researcher_3_machine: "$leader_trait_MLT_federal_researcher_machine$"
+ leader_trait_MLT_federal_researcher_3_machine_desc: "$leader_trait_MLT_federal_researcher_machine_desc$"
+ 
+ # Grudgebearer
+ 
+ leader_trait_MLT_grudgebearer: "Guardador de Rencores"
+ leader_trait_MLT_grudgebearer_desc: "Este líder nunca deja morir un rencor, y hará todo lo que esté en su poder para nunca dejar que ellos tengan una victoria de nuevo."
+ leader_trait_MLT_grudgebearer_2: "$leader_trait_MLT_grudgebearer$"
+ leader_trait_MLT_grudgebearer_2_desc: "$leader_trait_MLT_grudgebearer_desc$"
+ leader_trait_MLT_grudgebearer_3: "$leader_trait_MLT_grudgebearer$"
+ leader_trait_MLT_grudgebearer_3_desc: "$leader_trait_MLT_grudgebearer_desc$"
+ 
+ leader_trait_MLT_grudgebearer_hive: "Guardador de Rencores"
+ leader_trait_MLT_grudgebearer_hive_desc: "La memoria de este líder siempre está enfocada en los enemigos de la colmena."
+ leader_trait_MLT_grudgebearer_2_hive: "$leader_trait_MLT_grudgebearer_hive$"
+ leader_trait_MLT_grudgebearer_2_hive_desc: "$leader_trait_MLT_grudgebearer_hive_desc$"
+ leader_trait_MLT_grudgebearer_3_hive: "$leader_trait_MLT_grudgebearer_hive$"
+ leader_trait_MLT_grudgebearer_3_hive_desc: "$leader_trait_MLT_grudgebearer_hive_desc$"
+ 
+ leader_trait_MLT_grudgebearer_machine: "Guardador de Rencores"
+ leader_trait_MLT_grudgebearer_machine_desc: "Este líder nunca descarta ningún recuerdo de agravios cometidos contra él."
+ leader_trait_MLT_grudgebearer_2_machine: "$leader_trait_MLT_grudgebearer_machine$"
+ leader_trait_MLT_grudgebearer_2_machine_desc: "$leader_trait_MLT_grudgebearer_machine_desc$"
+ leader_trait_MLT_grudgebearer_3_machine: "$leader_trait_MLT_grudgebearer_machine$"
+ leader_trait_MLT_grudgebearer_3_machine_desc: "$leader_trait_MLT_grudgebearer_machine_desc$"
+ 
+ leader_trait_MLT_grudgebearer_tt: "$GALCOM_EFFECTS_TXT$$TABBED_NEW_LINE$Fuerza de Votación al oponerse a una Resolución que un rival está apoyando: §G+10%§!"
+ leader_trait_MLT_grudgebearer_2_tt: "$GALCOM_EFFECTS_TXT$$TABBED_NEW_LINE$Fuerza de Votación al oponerse a una Resolución que un rival está apoyando: §G+15%§!$TABBED_NEW_LINE$Fuerza de Votación al apoyar una Resolución que un rival está oponiendo: §G+15%§!"
+ leader_trait_MLT_grudgebearer_3_tt: "$GALCOM_EFFECTS_TXT$$TABBED_NEW_LINE$Fuerza de Votación al oponerse a una Resolución que un rival está apoyando: §G+25%§!$TABBED_NEW_LINE$Fuerza de Votación al apoyar una Resolución que un rival está oponiendo: §G+25%§!"
+ 
+ # Logistics Expert - Destiny Trait
+ 
+ leader_trait_MLT_logistics_expert: "Experto en Logística Naval"
+ leader_trait_MLT_logistics_expert_desc: "Al mover algunos números y certificados, este líder es capaz de retener parte de nuestra contribución a nuestra federación."
+ 
+ ### Advisor Traits ###
+ 
+ # Traffic Specialist
+ 
+ leader_trait_MLT_traffic_specialist: "Gerente de Tráfico"
+ leader_trait_MLT_traffic_specialist_desc: "Este líder es un experto cuando se trata de formular reglas para nuestro tráfico estelar, permitiendo un vuelo y tránsito más rápido."
+ leader_trait_MLT_traffic_specialist_2: "$leader_trait_MLT_traffic_specialist$"
+ leader_trait_MLT_traffic_specialist_2_desc: "$leader_trait_MLT_traffic_specialist_desc$"
+ leader_trait_MLT_traffic_specialist_3: "$leader_trait_MLT_traffic_specialist$"
+ leader_trait_MLT_traffic_specialist_3_desc: "$leader_trait_MLT_traffic_specialist_desc$"
+ 
+ leader_trait_MLT_traffic_specialist_hive: "Analista Estelar"
+ leader_trait_MLT_traffic_specialist_hive_desc: "Este líder controla cuidadosamente su parte del tráfico estelar, asegurando tiempos de tránsito más bajos."
+ leader_trait_MLT_traffic_specialist_2_hive: "$leader_trait_MLT_traffic_specialist_hive$"
+ leader_trait_MLT_traffic_specialist_2_hive_desc: "$leader_trait_MLT_traffic_specialist_hive_desc$"
+ leader_trait_MLT_traffic_specialist_3_hive: "$leader_trait_MLT_traffic_specialist_hive$"
+ leader_trait_MLT_traffic_specialist_3_hive_desc: "$leader_trait_MLT_traffic_specialist_hive_desc$"
+ 
+ leader_trait_MLT_traffic_specialist_machine: "Analista Estelar"
+ leader_trait_MLT_traffic_specialist_machine_desc: "El análisis en tiempo real del clima espacial permite una mejor maniobrabilidad durante el viaje UL y subluz."
+ leader_trait_MLT_traffic_specialist_2_machine: "$leader_trait_MLT_traffic_specialist_machine$"
+ leader_trait_MLT_traffic_specialist_2_machine_desc: "$leader_trait_MLT_traffic_specialist_machine_desc$"
+ leader_trait_MLT_traffic_specialist_3_machine: "$leader_trait_MLT_traffic_specialist_machine$"
+ leader_trait_MLT_traffic_specialist_3_machine_desc: "$leader_trait_MLT_traffic_specialist_machine_desc$"
+ 
+ # Royal Liaison
+ 
+ leader_trait_MLT_royal_liaison: "Ecuyer"
+ leader_trait_MLT_royal_liaison_desc: "Un gobernante no puede gobernar sin muchos asistentes calificados para ayudar con los muchos deberes que conlleva tal posición. Este líder se asegura de que solo se elijan los mejores para el trabajo."
+ leader_trait_MLT_royal_liaison_2: "$leader_trait_MLT_royal_liaison$"
+ leader_trait_MLT_royal_liaison_2_desc: "$leader_trait_MLT_royal_liaison_desc$"
+ leader_trait_MLT_royal_liaison_3: "$leader_trait_MLT_royal_liaison$"
+ leader_trait_MLT_royal_liaison_3_desc: "$leader_trait_MLT_royal_liaison_desc$"
+ 
+ leader_trait_MLT_royal_liaison_hive: "Conexión Personal"
+ leader_trait_MLT_royal_liaison_hive_desc: "Una conexión especial con nuestro [Root.Owner.Ruler.GetRulerTitle] permite a este líder asumir parte de la carga de trabajo cuando sea necesario."
+ leader_trait_MLT_royal_liaison_2_hive: "$leader_trait_MLT_royal_liaison_hive$"
+ leader_trait_MLT_royal_liaison_2_hive_desc: "$leader_trait_MLT_royal_liaison_hive_desc$"
+ leader_trait_MLT_royal_liaison_3_hive: "$leader_trait_MLT_royal_liaison_hive$"
+ leader_trait_MLT_royal_liaison_3_hive_desc: "$leader_trait_MLT_royal_liaison_hive_desc$"
+ 
+ leader_trait_MLT_royal_liaison_machine: "Comando Auxiliar"
+ leader_trait_MLT_royal_liaison_machine_desc: "Una conexión directa con nuestro [Root.Owner.Ruler.GetRulerTitle] permite a este líder asumir parte de la carga de trabajo cuando sea necesario."
+ leader_trait_MLT_royal_liaison_2_machine: "$leader_trait_MLT_royal_liaison_machine$"
+ leader_trait_MLT_royal_liaison_2_machine_desc: "$leader_trait_MLT_royal_liaison_machine_desc$"
+ leader_trait_MLT_royal_liaison_3_machine: "$leader_trait_MLT_royal_liaison_machine$"
+ leader_trait_MLT_royal_liaison_3_machine_desc: "$leader_trait_MLT_royal_liaison_machine_desc$"
+ 
+ # Haggler
+ 
+ leader_trait_MLT_haggler: "Regateador"
+ leader_trait_MLT_haggler_desc: "Este líder es un experto en el comercio de bienes por bienes, eludiendo las tarifas que normalmente se imponen al usar la moneda."
+ leader_trait_MLT_haggler_2: "$leader_trait_MLT_haggler$"
+ leader_trait_MLT_haggler_2_desc: "$leader_trait_MLT_haggler_desc$"
+ leader_trait_MLT_haggler_3: "$leader_trait_MLT_haggler$"
+ leader_trait_MLT_haggler_3_desc: "$leader_trait_MLT_haggler_desc$"
+ 
+ leader_trait_MLT_haggler_hive: "Gestión de Recursos Adaptativos"
+ leader_trait_MLT_haggler_hive_desc: "Este líder ha desarrollado una forma de utilizar recursos no convencionales como sustitutos de los que faltan."
+ leader_trait_MLT_haggler_2_hive: "$leader_trait_MLT_haggler_hive$"
+ leader_trait_MLT_haggler_2_hive_desc: "$leader_trait_MLT_haggler_hive_desc$"
+ leader_trait_MLT_haggler_3_hive: "$leader_trait_MLT_haggler_hive$"
+ leader_trait_MLT_haggler_3_hive_desc: "$leader_trait_MLT_haggler_hive_desc$"
+ 
+ leader_trait_MLT_haggler_machine: "Gestión de Recursos Adaptativos"
+ leader_trait_MLT_haggler_machine_desc: "Este líder ha desarrollado una forma de utilizar recursos no convencionales como sustitutos de los que faltan."
+ leader_trait_MLT_haggler_2_machine: "$leader_trait_MLT_haggler_machine$"
+ leader_trait_MLT_haggler_2_machine_desc: "$leader_trait_MLT_haggler_machine_desc$"
+ leader_trait_MLT_haggler_3_machine: "$leader_trait_MLT_haggler_machine$"
+ leader_trait_MLT_haggler_3_machine_desc: "$leader_trait_MLT_haggler_machine_desc$"
+ 
+ # Internal Structuring - Destiny Trait
+ 
+ leader_trait_MLT_internal_structuring: "Mecenas"
+ leader_trait_MLT_internal_structuring_desc: "Este líder es firme en su creencia de que más es mejor, y ha renunciado a parte de su salario para obtener un presupuesto más grande para nuevas contrataciones."
+ 
+ ### Ambassador Traits ###
+ # Silver-Tongued
+ leader_trait_MLT_friendly: "Rostro Amigable"
+ leader_trait_MLT_friendly_desc: "Este líder se comporta bien, incluso cuando está entre aquellos hostiles y desconfiados hacia [Root.GetHimHer]."
+ leader_trait_MLT_friendly_hive: "Feromonas Agradables"
+ leader_trait_MLT_friendly_hive_desc: "Este dron usa feromonas especiales para parecer más atractivo y confiable para otros diplomáticos."
+ leader_trait_MLT_friendly_machine: "Exterior Brillante"
+ leader_trait_MLT_friendly_machine_desc: "Esta unidad ha comprometido una cantidad inusual de recursos para las apariencias."
+ 
+ leader_trait_MLT_friendly_2: "$leader_trait_MLT_friendly$"
+ leader_trait_MLT_friendly_2_desc: "$leader_trait_MLT_friendly_desc$"
+ leader_trait_MLT_friendly_2_hive: "$leader_trait_MLT_friendly_hive$"
+ leader_trait_MLT_friendly_2_hive_desc: "$leader_trait_MLT_friendly_hive_desc$"
+ leader_trait_MLT_friendly_2_machine: "$leader_trait_MLT_friendly_machine$"
+ leader_trait_MLT_friendly_2_machine_desc: "$leader_trait_MLT_friendly_machine_desc$"
+ 
+ leader_trait_MLT_friendly_3: "$leader_trait_MLT_friendly$"
+ leader_trait_MLT_friendly_3_desc: "$leader_trait_MLT_friendly_desc$"
+ leader_trait_MLT_friendly_3_hive: "$leader_trait_MLT_friendly_hive$"
+ leader_trait_MLT_friendly_3_hive_desc: "$leader_trait_MLT_friendly_hive_desc$"
+ leader_trait_MLT_friendly_3_machine: "$leader_trait_MLT_friendly_machine$"
+ leader_trait_MLT_friendly_3_machine_desc: "$leader_trait_MLT_friendly_machine_desc$"
+ 
+ leader_trait_MLT_friendly_tt: "$EMPIRE_EFFECTS_TXT$:\n$t$Los imperios capaces de diplomacia regular tienen un aumento de §G10§! £opinion£ §YOpinión§! de nosotros."
+ leader_trait_MLT_friendly_2_tt: "$EMPIRE_EFFECTS_TXT$:\n$t$Los imperios capaces de diplomacia regular tienen un aumento de §G20§! £opinion£ §YOpinión§! de nosotros."
+ leader_trait_MLT_friendly_3_tt: "$EMPIRE_EFFECTS_TXT$:\n$t$Los imperios capaces de diplomacia regular tienen un aumento de §G40§! £opinion£ §YOpinión§! de nosotros."
+ 
+ # Secretkeeper
+ 
+ leader_trait_MLT_secretkeeper: "Guardián de Secretos"
+ leader_trait_MLT_secretkeeper_desc: "Este líder es cuidadoso acerca de qué información se revela tanto a posibles aliados como a enemigos."
+ leader_trait_MLT_secretkeeper_2: "$leader_trait_MLT_secretkeeper$"
+ leader_trait_MLT_secretkeeper_2_desc: "$leader_trait_MLT_secretkeeper_desc$"
+ leader_trait_MLT_secretkeeper_3: "$leader_trait_MLT_secretkeeper$"
+ leader_trait_MLT_secretkeeper_3_desc: "La Luna es redonda y grande, alta en el cielo.\nSecretos susurrados en mi mente.\nObserva la Luna, porque sabe más que tú."
+ #"$leader_trait_MLT_secretkeeper_desc$"
+ 
+ leader_trait_MLT_secretkeeper_hive: "Comunicación de Subespacio"
+ leader_trait_MLT_secretkeeper_hive_desc: "La comunicación de este líder con nuestra red de comunicaciones de subespacio es más fuerte que la mayoría, permitiendo una menor dependencia de soluciones tecnológicas."
+ leader_trait_MLT_secretkeeper_2_hive: "$leader_trait_MLT_secretkeeper_hive$"
+ leader_trait_MLT_secretkeeper_2_hive_desc: "$leader_trait_MLT_secretkeeper_hive_desc$"
+ leader_trait_MLT_secretkeeper_3_hive: "$leader_trait_MLT_secretkeeper_hive$"
+ leader_trait_MLT_secretkeeper_3_hive_desc: "$leader_trait_MLT_secretkeeper_hive_desc$"
+ 
+ leader_trait_MLT_secretkeeper_machine: "Cifrado de Alta Gama"
+ leader_trait_MLT_secretkeeper_machine_desc: "Esta unidad utiliza algoritmos personalizados y métodos de cifrado para mantener seguros los datos de nuestro imperio."
+ leader_trait_MLT_secretkeeper_2_machine: "$leader_trait_MLT_secretkeeper_machine$"
+ leader_trait_MLT_secretkeeper_2_machine_desc: "$leader_trait_MLT_secretkeeper_machine_desc$"
+ leader_trait_MLT_secretkeeper_3_machine: "$leader_trait_MLT_secretkeeper_machine$"
+ leader_trait_MLT_secretkeeper_3_machine_desc: "$leader_trait_MLT_secretkeeper_machine_desc$"
+ 
+ # Trader
+ 
+ leader_trait_MLT_trader: "Educación Mercantil"
+ leader_trait_MLT_trader_desc: "Este líder ha recibido la mejor educación en economía que el imperio tiene para ofrecer, permitiendo obtener beneficios mucho mayores de cualquier contrato firmado."
+ leader_trait_MLT_trader_2: "$leader_trait_MLT_trader$"
+ leader_trait_MLT_trader_2_desc: "$leader_trait_MLT_trader_desc$"
+ leader_trait_MLT_trader_3: "$leader_trait_MLT_trader$"
+ leader_trait_MLT_trader_3_desc: "$leader_trait_MLT_trader_desc$"
+ 
+ #leader_trait_MLT_trader_hive: ""
+ #leader_trait_MLT_trader_hive_desc: ""
+ #leader_trait_MLT_trader_2_hive: "$leader_trait_MLT_trader_hive$"
+ #leader_trait_MLT_trader_2_hive_desc: "$leader_trait_MLT_trader_hive_desc$"
+ #leader_trait_MLT_trader_3_hive: "$leader_trait_MLT_trader_hive$"
+ #leader_trait_MLT_trader_3_hive_desc: "$leader_trait_MLT_trader_hive_desc$"
+ 
+ #leader_trait_MLT_trader_machine: ""
+ #leader_trait_MLT_trader_machine_desc: ""
+ #leader_trait_MLT_trader_2_machine: "$leader_trait_MLT_trader_machine$"
+ #leader_trait_MLT_trader_2_machine_desc: "$leader_trait_MLT_trader_machine_desc$"
+ #leader_trait_MLT_trader_3_machine: "$leader_trait_MLT_trader_machine$"
+ #leader_trait_MLT_trader_3_machine_desc: "$leader_trait_MLT_trader_machine_desc$"
+ 
+ # Recruiter - Destiny Trait
+ 
+ leader_trait_MLT_recruiter: "Reclutador Renombrado"
+ leader_trait_MLT_recruiter_desc: "Este líder utiliza su fama para atraer a solicitantes calificados para una mayor selección de reclutamiento."
+ 
+ ###############
+ # Other Stuff #
+ ###############
+ 
+ triggered_opinion_MLT_friendly: "$leader_trait_MLT_friendly$"
+ mod_planet_researchers_astral_threads_produces_add: "Hilos Astrales de Investigadores"
+ mod_planet_jobs_astral_threads_produces_mult: "Hilos Astrales de Trabajos"
